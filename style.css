@@ -1,0 +1,42 @@
+.heading
+{
+    font-size:20;
+    margin: 0px;
+    width: 100%;
+}
+
+.no_of_objects
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(231, 187, 236);
+}
+
+.detection
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(231, 187, 236);
+}
+
+.copyright_footer
+{
+    position: fixed;
+    bottom: 0;
+    color:red;
+    background-color: blue;
+    text-align: center;
+    line-height: 1.2;
+    width:100%;
+    font-size:20px;
+
+}
+
+body
+{
+    background-size:cover ;
+}
+
+canvas
+{
+    margin-top: 110px;
+
+}
